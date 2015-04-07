@@ -27,3 +27,9 @@ This code is a prototype for a user interface to explore metrics derived from
 inertial sensors. This code can be tricky to run based on the compatibility
 between PyQt4 and Enthought Chaco (plotting library). I recommend using
 Python 2.6 (EPD 6.3-2) and PyQt4.9.
+
+Dependencies
+-PyQt4
+-Enthought Chaco
+-Pandas
+-Numpy/Scipy
